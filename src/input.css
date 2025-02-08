@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+
+@theme {
+    --color-clifford: #da373d;
+    --font-Sans: "Work Sans", serif;
+    --color-dark1: #131313;
+    --color-dark2: #424242;
+    --color-dark3: #727272;
+    --color-Orange: #FF900E;
+    --color-lightOrange: #FFF4E7;
+
+  }
+  .btn {
+
+  }
+  .link {
+    @apply font-medium text-lg text-dark2;
+  }
