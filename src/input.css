@@ -17,6 +17,9 @@
   .link {
     @apply font-medium text-lg text-dark2;
   }
+  .title {
+    @apply font-bold text-dark1 text-[2.8125rem] leading-[53px] mb-6;
+  }
   .subtitle {
     @apply font-normal text-base text-dark3;
   }
