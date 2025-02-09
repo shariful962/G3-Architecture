@@ -12,8 +12,11 @@
 
   }
   .btn {
-
+    @apply bg-Orange text-white text-xl font-medium p-3 rounded-lg border-none cursor-pointer;
   }
   .link {
     @apply font-medium text-lg text-dark2;
+  }
+  .subtitle {
+    @apply font-normal text-base text-dark3;
   }
